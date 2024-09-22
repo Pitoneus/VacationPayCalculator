@@ -1,0 +1,11 @@
+spring:
+  application.name: VacationPay
+
+  mvc:
+    format:
+      date-time: iso
+
+app:
+  holidays:
+    - day: 1
+      month: 1
